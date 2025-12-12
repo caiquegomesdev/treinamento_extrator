@@ -1,4 +1,4 @@
-# 🎥 Terwal Treinamento de Itens Sugeridos
+# 🎥 Terwal Treinamento Extrator
 
 Um reprodutor de vídeo interativo, moderno e responsivo, desenvolvido para **treinamentos internos da Terwal Máquinas**.  
 O projeto permite abrir, visualizar e analisar vídeos de treinamento, com estatísticas detalhadas e atalhos otimizados para controle total da reprodução.
